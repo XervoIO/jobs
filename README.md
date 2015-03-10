@@ -1,6 +1,7 @@
 ## Open positions
 
 [Node.js Developer](https://github.com/onmodulus/jobs/blob/master/node.md)
+
 [Front-End Developer](https://github.com/onmodulus/jobs/blob/master/front-end.md)
 
 If you are interested in working with us, open an issue or pull request with
